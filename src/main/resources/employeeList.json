@@ -1,0 +1,10 @@
+[{
+  "name": "John",
+  "address": "ABC Limited , Pune",
+  "position": "Sr Software Engineer"
+},
+  {
+    "name": "Sam",
+    "address": "DEF Limited , Pune",
+    "position": "Software Engineer"
+  }]
